@@ -1,4 +1,4 @@
-# olimpiak
+# olimpiak weblap 
 ## GitHub proba
-## github proba letoltes
-## github proba feltoltes
+## készítő: Mulati Balázs
+## 9. A csop 1
