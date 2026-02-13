@@ -11,19 +11,48 @@ h1{
     text-align: center;
 }
 
-#okori{
+/* #okori{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-size: 150%   ; 
    font-style: italic;
-   text-align: justify;        /*dá*/
+   text-align: justify;        dá
    margin:20px 100px 20px 100px;
-   /* font-variant: small-caps;    kiskapitális */
-   line-height: 1.5;      /*sorok magassága*/
-   /* text-transform: capitalize;   /*minden szó első betűje nagybetűs*/
-   /* text-transform: lowercase;    /*minden kisbetűs*/
-   /* text-transform: uppercase; */
+   font-variant: small-caps;    kiskapitális 
+   line-height: 1.5;      sorok magassága
+    text-transform: capitalize;   minden szó első betűje nagybetűs
+    text-transform: lowercase;    minden kisbetűs
+   text-transform: uppercase; */
    
 }
 #nob{
     text-decoration: underline;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    /* text-align: justify; */
+    color: rgb(24, 24, 93);
+    line-height: 1.5;
+    margin: 20px 100px 20px 100px;
+    background-color: antiquewhite;
+    text-indent: 50px; /*első sor behúzása*/
+}
+
+li {
+ list-style: url(logo.png);
+}
+
+#bejarat {
+    height: 200px;
+    float: right;
+    border: 5px solid purple;
+    padding: 8px;
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    /* margin-left: 20px; */
+    /* margin-right: 20px; */
+    margin: 20px;
+}
+.bekezdes{
+    text-transform: uppercase;
 }
